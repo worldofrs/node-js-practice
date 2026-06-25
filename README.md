@@ -55,7 +55,7 @@ npm install figlet
 
 1. Run the game using Node.js:
    ```bash
-   node index.js
+   npm start
    ```
 2. Type `rock`, `paper`, or `scissors` when prompted and hit **Enter**.
 3. The computer will randomly generate its choice.
