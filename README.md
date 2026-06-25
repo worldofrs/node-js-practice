@@ -1,6 +1,6 @@
 # CLI-based Rock, Paper, Scissors
 
-    ____             __           ____                       
+```    ____             __           ____                       
    / __ \____  _____/ /__        / __ \____ _____  ___  _____
   / /_/ / __ \/ ___/ //_/       / /_/ / __ `/ __ \/ _ \/ ___/
  / _, _/ /_/ / /__/ ,< _       / ____/ /_/ / /_/ /  __/ /    
@@ -9,7 +9,7 @@
   / ___/_____(_)_____________  __________/ /                 
   \__ \/ ___/ / ___/ ___/ __ \/ ___/ ___/ /                  
  ___/ / /__/ (__  |__  ) /_/ / /  (__  )_/                   
-/____/\___/_/____/____/\____/_/  /____(_)    
+/____/\___/_/____/____/\____/_/  /____(_)    ```
 
 An interactive, terminal-based Rock, Paper, Scissors game built with Node.js. Features stylized ASCII art for player choices and stylized text banners using the `figlet` library.
 
