@@ -37,10 +37,10 @@ const art = {
 async function playGame() {
     try { // display welcome message using figlet
         const welcomeMessage = await figlet.text('Rock, Paper, Scissors!', {
-            font: 'Ghost',
+            font: 'slant',
             horizontalLayout: 'default',
             verticalLayout: 'default',
-            width: 80,
+            width: 100,
             whitespaceBreak: true,
         });
         console.log(welcomeMessage);
