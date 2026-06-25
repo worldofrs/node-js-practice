@@ -9,7 +9,8 @@
   / ___/_____(_)_____________  __________/ /                 
   \__ \/ ___/ / ___/ ___/ __ \/ ___/ ___/ /                  
  ___/ / /__/ (__  |__  ) /_/ / /  (__  )_/                   
-/____/\___/_/____/____/\____/_/  /____(_)    ```
+/____/\___/_/____/____/\____/_/  /____(_)    
+```
 
 An interactive, terminal-based Rock, Paper, Scissors game built with Node.js. Features stylized ASCII art for player choices and stylized text banners using the `figlet` library.
 
